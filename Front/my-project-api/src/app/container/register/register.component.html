@@ -1,0 +1,43 @@
+<div class="container" style="padding: 5%;">
+    <div class="row justify-content-md-center">
+        <div class="col-4">
+            <!-- username input -->
+            <div class="form-group">
+                <label class="form-label" for="username">Username</label>
+                <input type="text" [(ngModel)]="username" id="username" class="form-control" />
+            </div>
+
+            <!-- password input -->
+            <div class="form-group">
+                <label class="form-label" for="password">Password</label>
+                <input type="password" [(ngModel)]="password" id="password" class="form-control" />
+            </div>
+
+            <!-- role input -->
+            <div class="form-group">
+                <label class="form-label" for="role">Role</label>
+                <input type="text" [(ngModel)]="role" id="role" class="form-control" />
+            </div>
+
+            <!-- email input -->
+            <div class="form-group">
+                <label class="form-label" for="email">Email</label>
+                <input type="email" [(ngModel)]="email" id="email" class="form-control" />
+            </div>
+
+            <!-- adresse input -->
+            <div class="form-group">
+                <label class="form-label" for="adresse">Adresse</label>
+                <input type="text" [(ngModel)]="adresse" id="adresse" class="form-control" />
+            </div>
+
+            <!-- submit button -->
+            <button class="btn btn-primary btn-block col-12" (click)="register()">Register</button>
+
+            <!-- register button -->
+            <div class="text-center">
+                <p>Have an account? <a href="/login">Login</a></p>
+            </div>
+        </div>       
+    </div>
+</div>

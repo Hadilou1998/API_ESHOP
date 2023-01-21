@@ -1,0 +1,98 @@
+[
+    {
+        "id"        :   1,
+        "name"      :   "Deeluxe - Doudoune capuche Fourrure Femme Melinda Blanc",
+        "price"     :   39.18,
+        "link"      :   "assets/doudoune-melinda.jpg",
+        "currency"  :   "€",
+        "id_user"   :   1
+    },
+    {
+        "id"        :   2,
+        "name"      :   "Manteau en Fourrure Créations Paris Fausse Fourrure Marron 46 (XXL)",
+        "price"     :   50.00,
+        "link"      :   "assets/manteau-fausse-fourrure.jpg",
+        "currency"  :   "€",
+        "id_user"   :   1
+    },
+    {
+        "id"        :   3,
+        "name"      :   "Tally Weijl Doudoune longue blanche en Fausse Fourrure XL",
+        "price"     :   34.99,
+        "link"      :   "assets/tally-weijl-doudoune-longue-blanche.jpeg",
+        "currency"  :   "€",
+        "id_user"   :   2
+    },
+    {
+        "id"        :   4,
+        "name"      :   "Doudoune matelassée unie Noir - Taille 54",
+        "price"     :   34.99,
+        "link"      :   "assets/doudoune-matelassee-unie-taille-54.jpg",
+        "currency"  :   "€",
+        "id_user"   :   2
+    },
+    {
+        "id"        :   5,
+        "name"      :   "Doudoune Homme CARGERONNE",
+        "price"     :   47.61,
+        "link"      :   "assets/Doudoune-homme-CARGERONNE.jpg",
+        "currency"  :   "€",
+        "id_user"   :   3
+    },
+    {
+        "id"        :   6,
+        "name"      :   "Doudoune matelassée bleu marine-bleu roi polyamide",
+        "price"     :   41.60,
+        "link"      :   "assets/doudoune-matelassee-bleu-marine-bleu-roi-pyramide.jpg",
+        "currency"  :   "€",
+        "id_user"   :   3
+    },
+    {
+        "id"        :   7,
+        "name"      :   "Doudoune Homme CEPAD",
+        "price"     :   47.61,
+        "link"      :   "assets/Doudoune-Homme-CEPAD.jpeg",
+        "currency"  :   "€",
+        "id_user"   :   4
+    },
+    {
+        "id"        :   8,
+        "name"      :   "Doudoune longue imperméable capuche Fausse Fourrure Lol",
+        "price"     :   69.99,
+        "link"      :   "assets/Doudoune-longue-imperméable-Fausse-Fourrure.jpg",
+        "currency"  :   "€",
+        "id_user"   :   4
+    },
+    {
+        "id"        :   9,
+        "name"      :   "Doudoune courte matelassée Col Fausse Fourrure Femme Best Mountain",
+        "price"     :   32.99,
+        "link"      :   "assets/doudoune-courte-matelassee-col-fausse-fourrure-femme-best-mountain.jpg",
+        "currency"  :   "€",
+        "id_user"   :   5
+    },
+    {
+        "id"        :   10,
+        "name"      :   "Trendyol Veste Duvet - Doudoune - Noir - X-Small",
+        "price"     :   32.99,
+        "link"      :   "assets/Trendyol Veste Duvet - Doudoune - Noir - X-Small.jpeg",
+        "currency"  :   "€",
+        "id_user"   :   5
+    },
+    {
+        "id"        :   11,
+        "name"      :   "Name IT - Parka longue capuche amovible Mace",
+        "price"     :   32.00,
+        "link"      :   "assets/Name IT - Parka longue capuche amovible Mace.jpeg",
+        "currency"  :   "€",
+        "id_user"   :   6
+    },
+    {
+        "id"        :   12,
+        "name"      :   "Doudoune brillante Homme en Duvet",
+        "price"     :   44.99,
+        "link"      :   "assets/doudoune-brillante-homme-en-duvet.jpg",
+        "currency"  :   "€",
+        "id_user"   :   6
+    }
+]

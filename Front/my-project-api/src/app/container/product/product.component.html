@@ -1,0 +1,10 @@
+<div class="card" style="width: 18rem;">
+    <img src={{item.link}} class="card-img-top" width="200" height="250">
+    <div class="card-body">
+        <h5 class="card-title">{{item.name}}</h5>
+    </div>
+    <div class="card-footer">
+        {{item.price}} {{item.currency}}
+        <button type="button" class="btn btn-sm btn-primary" (click)="addToCart(item)">Add to Cart</button>
+    </div>
+</div>
