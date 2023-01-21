@@ -1,3 +1,3 @@
-# MyIRC
+# MyHyruleCastle
 
-Création d'un chat en ligne de commande avec Socket.io et TypeScript
+Création d'un projet de jeu en ligne de commande avec TypeScript
