@@ -14,7 +14,6 @@ import { JwtInterceptor } from './common/jwt.interceptor';
 import { AdminComponent } from './container/admin/admin.component';
 import { ErrorInterceptor } from './common/error.interceptor';
 import { UpdateUserComponent } from './container/update-user/update-user.component';
-import { DetailUserComponent } from './container/detail-user/detail-user.component';
 
 
 @NgModule
@@ -30,7 +29,6 @@ import { DetailUserComponent } from './container/detail-user/detail-user.compone
     UserComponent,
     AdminComponent,
     UpdateUserComponent,
-    DetailUserComponent
   ],
   imports: 
   [
