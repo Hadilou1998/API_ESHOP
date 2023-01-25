@@ -15,7 +15,6 @@ import { AdminComponent } from './container/admin/admin.component';
 import { ErrorInterceptor } from './common/error.interceptor';
 import { UpdateUserComponent } from './container/update-user/update-user.component';
 
-
 @NgModule
 ({
   declarations: 
