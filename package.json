@@ -1,0 +1,22 @@
+{
+  "name": "api_eshop",
+  "version": "1.0.0",
+  "description": "Angular API REST CRUD with Node.js, Express and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadilou1998/API_ESHOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadilou1998/API_ESHOP/issues"
+  },
+  "homepage": "https://github.com/Hadilou1998/API_ESHOP#readme",
+  "dependencies": {
+    "tslib": "^2.4.1"
+  }
+}
