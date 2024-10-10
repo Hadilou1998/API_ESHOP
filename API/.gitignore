@@ -1,0 +1,5 @@
+# API/.gitignore
+node_modules/
+npm-debug.
+.DS_Store
+.env.local
